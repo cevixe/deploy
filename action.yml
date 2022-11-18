@@ -1,0 +1,5 @@
+name: 'Cevixe Deploy GitHub Actions'
+description: 'Cevixe Deploy GitHub Actions allows you to deploy cevixe projects'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
